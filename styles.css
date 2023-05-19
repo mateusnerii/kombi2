@@ -1,5 +1,5 @@
 body {
-    background-color: 	#1f1e1e;
+    background-color: 	#000000;
     color: white;
     font-family:serif;
     display: flex;
@@ -174,16 +174,17 @@ button {
     text-align: left;
     font-size: 100px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin-right: 10px;
-    margin-left: 10px;
+    margin-right: 0px;
+    margin-left: 0px;
 
 
 
   }
 
   .estilodetexto {
-    font-size: large;
+    font-size: medium;
     margin-left: 110px;
+    font-family: sans-serif;
 }
 
  .box-preta{
@@ -193,7 +194,7 @@ button {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: linear-gradient(to left, #000000,  #020202 );
+  background-image: linear-gradient(to left, #000000,  #000000 );
   background-size: 11100px 100%;
   
   
